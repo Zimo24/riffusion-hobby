@@ -5,6 +5,7 @@ demucs
 diffusers==0.9.0
 flask
 flask_cors
+huggingface-hub==0.25.2
 numpy
 pillow>=9.1.0
 plotly
@@ -18,3 +19,4 @@ torch
 torchaudio
 torchvision
 transformers
+riffusion
