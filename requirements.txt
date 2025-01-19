@@ -14,7 +14,7 @@ pysoundfile
 scipy
 soundfile
 sox
-streamlit>=1.18.0
+streamlit
 torch
 torchaudio
 torchvision
